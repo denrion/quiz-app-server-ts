@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "5e5fee92fb6d94630827c4aa",
+    "displayName": "Admin",
+    "username": "admin",
+    "role": "admin",
+    "password": "test1234"
+  },
+  {
+    "_id": "5eb68962fb96ba32ecda79fe",
+    "displayName": "Quizmaster",
+    "username": "quizmaster",
+    "role": "quizmaster",
+    "password": "test1234"
+  },
+  {
+    "_id": "5eb6898f5f5efa507012b18b",
+    "displayName": "Test1",
+    "username": "test1",
+    "role": "player",
+    "password": "test1234"
+  }
+]
